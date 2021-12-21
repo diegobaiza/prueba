@@ -1,3 +1,3 @@
 //Hola
 
-console.log('que tal');
+console.log('hola');
